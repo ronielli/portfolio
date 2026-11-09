@@ -1,6 +1,6 @@
 # Portfólio — Ronielli
 
-Portfólio pessoal em React + Vite + TypeScript, com i18n (PT/EN) e tema escuro ciano/esmeralda.
+Portfólio pessoal em Next.js (App Router) + React + TypeScript, com i18n (PT/EN) e tema escuro ciano/esmeralda.
 
 ## Desenvolvimento
 
@@ -9,13 +9,15 @@ pnpm install
 pnpm dev
 ```
 
+Abre em http://localhost:3000.
+
 ## Build
 
 ```bash
 pnpm build
-pnpm preview
+pnpm start
 ```
 
 ## Deploy
 
-Conecte o repositório à Vercel. O comando de build é `pnpm build` e a pasta de saída é `dist`.
+Deploy na Vercel via GitHub Actions (`.github/workflows/deploy.yml`): cada push na `main` faz build no GitHub e publica na Vercel por token, sem a Vercel acessar o repositório.
