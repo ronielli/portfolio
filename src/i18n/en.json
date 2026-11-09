@@ -138,6 +138,6 @@
     "links": "Links",
     "social": "Social",
     "rights": "All rights reserved.",
-    "made": "Built with React, Vite and TypeScript."
+    "made": "Built with React, Next.js and TypeScript."
   }
 }

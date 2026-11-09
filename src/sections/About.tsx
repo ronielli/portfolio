@@ -12,7 +12,7 @@ export function About() {
         <SectionTitle title={t('about.title')} />
         <div className="grid gap-10 lg:grid-cols-[1.4fr_1fr]">
           <Reveal>
-            <p className="text-lg leading-relaxed text-mute">{t('about.body')}</p>
+            <p className="text-lg leading-relaxed text-text/90">{t('about.body')}</p>
           </Reveal>
           <div className="grid gap-4 sm:grid-cols-3 lg:grid-cols-1">
             {profile.stats.map((stat, index) => (

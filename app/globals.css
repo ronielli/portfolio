@@ -1,15 +1,15 @@
 @import 'tailwindcss';
 
 @theme {
-  --font-sans: 'Roboto', ui-sans-serif, system-ui, sans-serif;
-  --font-display: 'Roboto', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-roboto), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-roboto), ui-sans-serif, system-ui, sans-serif;
 
   --color-ink: #07101c;
   --color-ink-soft: #0b1120;
   --color-panel: #111a2b;
   --color-panel-2: #162033;
   --color-line: rgba(148, 163, 184, 0.16);
-  --color-mute: #94a3b8;
+  --color-mute: #a7b4c7;
   --color-text: #e8eef7;
   --color-cyan: #22d3ee;
   --color-emerald: #10b981;

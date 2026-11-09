@@ -14,7 +14,7 @@ export function SectionTitle({ title, subtitle }: SectionTitleProps) {
       {subtitle ? (
         <p className="mt-3 text-base leading-relaxed text-mute sm:text-lg">{subtitle}</p>
       ) : null}
-      <div className="mt-5 h-px w-20 bg-gradient-to-r from-cyan to-emerald" />
+      <div className="mt-5 h-0.5 w-16 rounded-full bg-cyan" />
     </Reveal>
   )
 }
