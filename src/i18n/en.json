@@ -1,0 +1,143 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "hello": "Hi, I'm",
+    "title": "Full Stack Software Engineer",
+    "subtitle": "From embedded boards to the app: I build complete products for industry and retail.",
+    "typedPrefix": "Specialist in",
+    "roles": {
+      "fullstack": "Full Stack",
+      "mobile": "Mobile",
+      "embedded": "Embedded Systems",
+      "vision": "Computer Vision"
+    },
+    "ctaContact": "Let's talk about your project",
+    "ctaSolutions": "View Solutions"
+  },
+  "about": {
+    "title": "About Me",
+    "body": "I'm based in Vitória da Conquista, Bahia. With over 12 years of experience, I build end-to-end solutions — from embedded systems to mobile apps and web platforms. I combine business vision with engineering: I design the architecture, write the code and ship to production. I also founded my own technology company.",
+    "stats": {
+      "years": "Years of experience",
+      "company": "Years as a founder",
+      "techs": "Technologies in daily use"
+    }
+  },
+  "solutions": {
+    "title": "What I deliver",
+    "subtitle": "End-to-end solutions — from the device on the shop floor to the app in the operator's hand",
+    "items": {
+      "industry": {
+        "title": "Industrial systems",
+        "description": "Management, shop-floor logging, traceability and operations in one integrated platform."
+      },
+      "mobile": {
+        "title": "Offline mobile apps",
+        "description": "Apps that work without internet, sync when back online and integrate sensors and Bluetooth."
+      },
+      "embedded": {
+        "title": "Embedded systems & IoT",
+        "description": "Firmware, microcontrollers and connected devices that collect data and talk to the cloud."
+      },
+      "vision": {
+        "title": "Computer vision",
+        "description": "Cameras and algorithms that read codes, detect objects and trigger actions in real time."
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "subtitle": "From the chip to the browser — the stack I use to ship real products",
+    "groups": {
+      "frontend": "Frontend",
+      "mobile": "Mobile & Desktop",
+      "backend": "Backend",
+      "data": "Data & Messaging",
+      "embedded": "Embedded, IoT & Vision",
+      "devops": "DevOps & Quality"
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "From apprenticeship to founding my company",
+    "location": {
+      "vdc": "Vitória da Conquista, BA"
+    },
+    "intuitiva": {
+      "title": "Managing Partner & CTO",
+      "period": "Jun 2021 — present",
+      "description": "I lead product architecture and development: web platforms, mobile, embedded systems, computer vision and infrastructure — from idea to deploy."
+    },
+    "cansho": {
+      "title": "Co-CEO & Dev Lead",
+      "period": "2020 — present",
+      "description": "Technical and product leadership: corporate tools with Node.js, React and React Native, from concept to delivery."
+    },
+    "dass": {
+      "title": "Apprentice → IT",
+      "period": "2014 — 2020",
+      "description": "I started as a young apprentice (2014–2016) and was hired permanently. I worked in tech support, infrastructure, networks and training until 2020 — a solid foundation before moving into software development."
+    },
+    "tags": {
+      "architecture": "Architecture",
+      "mobile": "Mobile",
+      "embedded": "Embedded Systems",
+      "vision": "Computer Vision",
+      "product": "Product",
+      "leadership": "Leadership",
+      "nodejs": "Node.js",
+      "react": "React",
+      "support": "Tech Support",
+      "networks": "Networks",
+      "training": "Training",
+      "hardware": "Hardware"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Academic foundation and the courses that mattered most in practice",
+    "si": {
+      "title": "Information Systems",
+      "place": "IFBA — Vitória da Conquista",
+      "period": "In progress"
+    },
+    "tech": {
+      "title": "IT Technician",
+      "place": "IF Baiano — Itapetinga campus",
+      "period": "2014"
+    },
+    "rocketseat": {
+      "title": "React, React Native and Node.js",
+      "place": "Rocketseat",
+      "period": "200 hours",
+      "detail": "Hands-on JavaScript full stack training for web and mobile."
+    }
+  },
+  "contact": {
+    "title": "Let's talk",
+    "subtitle": "Tell me about the next product or system you need",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "footer": {
+    "brand": "Ronielli",
+    "tagline": "Full Stack Software Engineer",
+    "links": "Links",
+    "social": "Social",
+    "rights": "All rights reserved.",
+    "made": "Built with React, Vite and TypeScript."
+  }
+}

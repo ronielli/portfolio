@@ -1,0 +1,143 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "solutions": "Soluções",
+    "skills": "Habilidades",
+    "experience": "Experiência",
+    "education": "Formação",
+    "contact": "Contato",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu"
+  },
+  "hero": {
+    "hello": "Olá, eu sou",
+    "title": "Engenheiro de Software Full Stack",
+    "subtitle": "Da placa embarcada ao app: eu construo produtos completos para a indústria e o varejo.",
+    "typedPrefix": "Especialista em",
+    "roles": {
+      "fullstack": "Full Stack",
+      "mobile": "Mobile",
+      "embedded": "Sistemas Embarcados",
+      "vision": "Visão Computacional"
+    },
+    "ctaContact": "Vamos conversar sobre seu projeto",
+    "ctaSolutions": "Ver Soluções"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "body": "Sou de Vitória da Conquista, Bahia. Com mais de 12 anos de carreira, construo soluções de ponta a ponta — de sistemas embarcados a apps mobile e plataformas web. Combino visão de negócio com engenharia: desenho a arquitetura, escrevo o código e coloco em produção. Também fundei minha própria empresa de tecnologia.",
+    "stats": {
+      "years": "Anos de carreira",
+      "company": "Anos empreendendo",
+      "techs": "Tecnologias no dia a dia"
+    }
+  },
+  "solutions": {
+    "title": "O que eu entrego",
+    "subtitle": "Soluções de ponta a ponta — do dispositivo no chão de fábrica ao app na mão do operador",
+    "items": {
+      "industry": {
+        "title": "Sistemas para a indústria",
+        "description": "Gestão, apontamento, rastreabilidade e operações de chão de fábrica em uma plataforma integrada."
+      },
+      "mobile": {
+        "title": "Apps mobile offline",
+        "description": "Aplicativos que funcionam sem internet, sincronizam quando voltam à rede e integram sensores e Bluetooth."
+      },
+      "embedded": {
+        "title": "Sistemas embarcados e IoT",
+        "description": "Firmware, microcontroladores e dispositivos conectados que coletam dados e conversam com a nuvem."
+      },
+      "vision": {
+        "title": "Visão computacional",
+        "description": "Câmeras e algoritmos que leem códigos, detectam objetos e disparam ações em tempo real."
+      }
+    }
+  },
+  "skills": {
+    "title": "Habilidades & Tecnologias",
+    "subtitle": "Do chip ao navegador — a stack que uso para entregar produtos reais",
+    "groups": {
+      "frontend": "Frontend",
+      "mobile": "Mobile & Desktop",
+      "backend": "Backend",
+      "data": "Dados & Mensageria",
+      "embedded": "Embarcados, IoT & Visão",
+      "devops": "DevOps & Qualidade"
+    }
+  },
+  "experience": {
+    "title": "Experiência",
+    "subtitle": "Da aprendizagem à fundação da minha empresa",
+    "location": {
+      "vdc": "Vitória da Conquista, BA"
+    },
+    "intuitiva": {
+      "title": "Sócio-Administrador & CTO",
+      "period": "Jun 2021 — o momento",
+      "description": "Lidero a arquitetura e o desenvolvimento dos produtos: plataformas web, mobile, sistemas embarcados, visão computacional e infraestrutura — da ideia ao deploy."
+    },
+    "cansho": {
+      "title": "Co-CEO & Dev Lead",
+      "period": "2020 — o momento",
+      "description": "Liderança técnica e de produto: ferramentas corporativas com Node.js, React e React Native, da concepção à entrega."
+    },
+    "dass": {
+      "title": "Jovem Aprendiz → TI",
+      "period": "2014 — 2020",
+      "description": "Comecei como jovem aprendiz (2014–2016) e fui efetivado. Atuei com suporte técnico, infraestrutura, redes e treinamentos até 2020 — base sólida antes de partir para o desenvolvimento de software."
+    },
+    "tags": {
+      "architecture": "Arquitetura",
+      "mobile": "Mobile",
+      "embedded": "Sistemas Embarcados",
+      "vision": "Visão Computacional",
+      "product": "Produto",
+      "leadership": "Liderança",
+      "nodejs": "Node.js",
+      "react": "React",
+      "support": "Suporte Técnico",
+      "networks": "Redes",
+      "training": "Treinamentos",
+      "hardware": "Hardware"
+    }
+  },
+  "education": {
+    "title": "Formação",
+    "subtitle": "Base acadêmica e os cursos que mais pesaram na prática",
+    "si": {
+      "title": "Sistemas de Informação",
+      "place": "IFBA — Vitória da Conquista",
+      "period": "Graduação em andamento"
+    },
+    "tech": {
+      "title": "Técnico em Informática",
+      "place": "IF Baiano — campus Itapetinga",
+      "period": "2014"
+    },
+    "rocketseat": {
+      "title": "React, React Native e Node.js",
+      "place": "Rocketseat",
+      "period": "200 horas",
+      "detail": "Formação prática em stack full stack JavaScript para web e mobile."
+    }
+  },
+  "contact": {
+    "title": "Vamos conversar",
+    "subtitle": "Conte sobre o próximo produto ou sistema que você precisa",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "footer": {
+    "brand": "Ronielli",
+    "tagline": "Engenheiro de Software Full Stack",
+    "links": "Links",
+    "social": "Social",
+    "rights": "Todos os direitos reservados.",
+    "made": "Feito com React, Vite e TypeScript."
+  }
+}
